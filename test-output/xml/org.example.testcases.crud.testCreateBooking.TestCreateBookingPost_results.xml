@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="E:/ATP6X/FirstProjectAPI6X"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.583">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCaseBooking"
+                time="3.583"
+                classname="org.example.testcases.crud.testCreateBooking.TestCreateBookingPost">
+            </testcase>
+</testsuite>

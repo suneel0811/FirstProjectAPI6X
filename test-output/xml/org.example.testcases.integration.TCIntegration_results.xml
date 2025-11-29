@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="E:/ATP6X/FirstProjectAPI6X"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.056">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testVerifyBookingID"
+                time="1.291"
+                classname="org.example.testcases.integration.TCIntegration">
+            </testcase>
+            <testcase
+                name="testUpdateBookingByID"
+                time="1.206"
+                classname="org.example.testcases.integration.TCIntegration">
+            </testcase>
+            <testcase
+                name="testDeleteBookingByID"
+                time="1.187"
+                classname="org.example.testcases.integration.TCIntegration">
+            </testcase>
+            <testcase
+                name="testCreateBooking"
+                time="2.372"
+                classname="org.example.testcases.integration.TCIntegration">
+            </testcase>
+</testsuite>
