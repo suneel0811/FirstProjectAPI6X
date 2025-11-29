@@ -44,6 +44,7 @@ public class PayloadManager {
 
     public BookingResponse bookingResponseJava(String responseString){
         BookingResponse bookingResponse=gson.fromJson(responseString,BookingResponse.class);
+        System.out.println(bookingResponse);
         return bookingResponse;
     }
 
