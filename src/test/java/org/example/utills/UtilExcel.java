@@ -3,6 +3,7 @@ package org.example.utills;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
+import org.testng.annotations.DataProvider;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -50,6 +51,7 @@ public class UtilExcel {
         return data;
     }
 
+    @DataProvider
     public static Object[][] getData(){
         //In future i can write the logic to select which sheet i want to open
         //Ask user which sheet to open

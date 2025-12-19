@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FirstProjectAPI6X"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.318">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testVWLogin"
+                time="0.499"
+                classname="org.example.testcases.ddUsingExcel.VWOLoginAPITc">
+            </testcase>
+            <testcase
+                name="testVWLogin"
+                time="4.819"
+                classname="org.example.testcases.ddUsingExcel.VWOLoginAPITc">
+            </testcase>
+</testsuite>
